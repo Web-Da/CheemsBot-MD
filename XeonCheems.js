@@ -1215,7 +1215,7 @@ case 'antilink':
                             }, {
                                 callButton: {
                                     displayText: 'Owner Number👤',
-                                    phoneNumber: '+91 690-9137-213'
+                                    phoneNumber: '+923474187615'
                                 }
                             }, {
                                 quickReplyButton: {
