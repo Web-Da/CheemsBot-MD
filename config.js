@@ -26,13 +26,13 @@ global.owner = ['923474187615'] //owner number, u can put multiple owner number,
 global.pemilik = ['923474187615'] //another owner number
 global.premium = ['923474187625'] //premium number
 global.pengguna = 'Asif Khan' //username
-global.botnma = 'Cheems Bot-MD' //bot name
+global.botnma = '✨𝓐𝓼𝓲𝓯 𝓚𝓱𝓪𝓷✨' //bot name
 global.ownernma = '𝒉𝒆𝒂𝒓𝒕 𝒉𝒂𝒄𝒌𝒆𝒓❤️🔥' //owner name
-global.packname = 'Cheems Bot' //sticker package name
-global.author = 'By Dream Guy Asif' //sticker author name
+global.packname = '✨𝓐𝓼𝓲𝓯 𝓚𝓱𝓪𝓷✨' //sticker package name
+global.author = '🍒 🎀 𝒜𝓈𝒾𝒻 𝒦𝒽𝒶𝓃 🎀 🍒' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
-global.sp = '⭔' //design
+global.sp = '🎈' //design
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
