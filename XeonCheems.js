@@ -594,7 +594,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
             }
             break
             case 'sc': case 'script': {
-                reply('Script : https://wa.me/+923474187615\n Talk to owner ')
+                reply('Script : https://wa.me/+923032112917\n Talk to owner ')
             }
             break
             case 'chat': {
@@ -1215,7 +1215,7 @@ case 'antilink':
                             }, {
                                 callButton: {
                                     displayText: 'Owner Number👤',
-                                    phoneNumber: '+923474187615'
+                                    phoneNumber: '+923032112917'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1234,7 +1234,7 @@ case 'antilink':
                                 }
                             }]
                       fatihgans = fs.readFileSync('./XeonMedia/cheemspic.jpg')
-                      let txt = `「 Cheems Bot Broadcast 」\n\n${text}`
+                      let txt = `「 Bot Broadcast 」\n\n${text}`
                       XeonBotInc.send5ButImg(i, txt, XeonBotInc.user.name, fatihgans, btn)
                     }
                 reply(`Successful Sending Broadcast To ${anu.length} Group(s)`)
@@ -1250,7 +1250,7 @@ case 'antilink':
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Script🔖',
-                                    url: 'https://wa.me/+923474187615'
+                                    url: 'https://wa.me +923032112917'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1259,7 +1259,7 @@ case 'antilink':
                                 }
                             }]
                       fatihgans = fs.readFileSync('./XeonMedia/cheemspic.jpg')
-                      let txt = `「 Cheems Bot Broadcast 」\n\n${text}`
+                      let txt = `「  Bot Broadcast 」\n\n${text}`
                       XeonBotInc.send5ButImg(yoi, txt, `Broadcast By ${global.pengguna}`, fatihgans, btn)
 		}
 		reply('Broadcast Success')
@@ -2387,12 +2387,12 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Contact',
-                                    url: 'https://wa.me/+923474187615'
+                                    url: 'https://wa.me/+923032112917'
                                 }
                             }, {
                             	urlButton: {
                                 displayText: 'Script🔖',
-                                    url: 'https://wa.me/+923474187615'
+                                    url: 'https://wa.me/+923032112917'
                                 }
                             }, {
                                 quickReplyButton: {
